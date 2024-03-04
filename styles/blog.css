@@ -1,0 +1,44 @@
+ header{
+    height: 300px;
+     /* background-color: aqua;  */
+    /* background-image: url("grandma.png");   */
+    background-image: url("../image/pic.jpg");
+     background-repeat: no-repeat; 
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y ; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 200px;
+    
+}
+
+h3 {
+    border: 2px solid ;
+    font-size: 30px;
+    text-decoration: overline; 
+    display: inline;
+}
+.second{
+    /* display: none;
+    visibility: hidden; */
+} 
+.blog{
+    margin: 40px;
+    padding: 10px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px ;
+
+}
+li{
+    
+} 
+.inline-block{
+    border: 2px solid rebeccapurple;
+    height: 40px;
+    display: inline-block;
+    /* display: block; */
+}
+.block{
+    border: 2px solid rebeccapurple;
+    display: inline;
+}
